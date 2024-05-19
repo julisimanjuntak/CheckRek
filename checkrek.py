@@ -1,6 +1,6 @@
 # Desc      : A python CLI based tools to check Indonesian bank/e-wallet account holder
 # Author    : Hiiruki <hi@hiiruki.dev>
-# URL       : https://github.com/hiiruki/CheckRek
+# URL       : https://github.com/julisimanjuntak/CheckRek
 
 import requests
 
@@ -15,7 +15,7 @@ print("""
         \_____|_| |_|\___|\___|_|\_\_|  \_\___|_|\_\ 
                                               
   A tools to check Indonesian bank/e-wallet account holder
-                        by @hiiruki
+                        by @hiiruki remake by @ega
                                               
 """)
 
@@ -71,7 +71,7 @@ print("""
 Format:
 
 - Bank      : 338801028216xxx
-- E-Wallet  : 08123456789
+- E-Wallet  : 083195893959
 """)
 account_number = input("Enter the account number: ")
 
